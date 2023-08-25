@@ -1,9 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 <CMA>
 <TITLE>NOTICIAS</TITLE>
 <IDS>NOTICIAS</IDS>
 <NEWS>
 <ID>202308251432.054000126</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>14:32</HORA>
 <MANCHETE>
 <![CDATA[ AÇÚCAR: NY sobe no dia e na semana com preocupações com oferta da India no foco ]]>
@@ -14,7 +15,7 @@
 </NEWS>
 <NEWS>
 <ID>202308251422.054000121</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>14:22</HORA>
 <MANCHETE>
 <![CDATA[ AÇÚCAR: Londres fecha sessão com cotações em alta ]]>
@@ -25,7 +26,7 @@
 </NEWS>
 <NEWS>
 <ID>202308251411.054000120</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>14:11</HORA>
 <MANCHETE>
 <![CDATA[ MÁQUINAS: Mudanças estruturais e conjunturais devem proporcionar melhora no setor ]]>
@@ -36,7 +37,7 @@
 </NEWS>
 <NEWS>
 <ID>202308251407.054000119</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>14:07</HORA>
 <MANCHETE>
 <![CDATA[ CARNE DE FRANGO: China deve produzir 13,87 milhões de t em 2024 - USDA ]]>
@@ -47,7 +48,7 @@
 </NEWS>
 <NEWS>
 <ID>202308251358.054000118</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>13:58</HORA>
 <MANCHETE>
 <![CDATA[ CAFÉ: Londres fecha em alta seguindo petróleo e aspectos técnicos ]]>
@@ -58,7 +59,7 @@
 </NEWS>
 <NEWS>
 <ID>202308251353.054000117</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>13:53</HORA>
 <MANCHETE>
 <![CDATA[ EMPRESAS: JBS movimenta 2,1% do PIB e contribui para geração de 2,7% do emprego no Brasil em 2021, mostra Fipe ]]>
@@ -69,7 +70,7 @@
 </NEWS>
 <NEWS>
 <ID>202308251347.054000112</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>13:47</HORA>
 <MANCHETE>
 <![CDATA[ TRIGO: Chicago reverte e cai no meio-pregão por força do dólar e Kremlin ]]>
@@ -80,7 +81,7 @@
 </NEWS>
 <NEWS>
 <ID>202308251347.054000111</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>13:47</HORA>
 <MANCHETE>
 <![CDATA[ PETRÓLEO: Futuros seguem operando em alta apesar de discurso hawkish de Powell ]]>
@@ -91,7 +92,7 @@
 </NEWS>
 <NEWS>
 <ID>202308251343.054000109</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>13:43</HORA>
 <MANCHETE>
 <![CDATA[ SOJA: Com externo bom e clima ruim, Chicago acentua ganhos no meio-pregão ]]>
@@ -102,7 +103,7 @@
 </NEWS>
 <NEWS>
 <ID>202308251336.054000106</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>13:36</HORA>
 <MANCHETE>
 <![CDATA[ MERCADO EUROPA: Ações fecham em alta à espera de discurso de Lagarde em Jackson Hole ]]>
@@ -113,7 +114,7 @@
 </NEWS>
 <NEWS>
 <ID>202308251316.054000102</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>13:16</HORA>
 <MANCHETE>
 <![CDATA[ MILHO: Chicago mantém tom positivo no meio-pregão, mas reduz ganhos ]]>
@@ -124,7 +125,7 @@
 </NEWS>
 <NEWS>
 <ID>202308251238.054000099</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>12:38</HORA>
 <MANCHETE>
 <![CDATA[ AÇÚCAR: India decidirá sobre exportações após avaliar oferta de cana ]]>
@@ -135,7 +136,7 @@
 </NEWS>
 <NEWS>
 <ID>202308251228.054000098</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>12:28</HORA>
 <MANCHETE>
 <![CDATA[ CLIMA: RS deve registrar temperaturas negativas em alguns municípios neste fim de semana, diz Seapi ]]>
@@ -146,7 +147,7 @@
 </NEWS>
 <NEWS>
 <ID>202308251226.054000097</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>12:26</HORA>
 <MANCHETE>
 <![CDATA[ AÇÚCAR: NY opera com cotações em alta, seguindo direcionamento do petróleo ]]>
@@ -157,7 +158,7 @@
 </NEWS>
 <NEWS>
 <ID>202308251218.054000096</ID>
-<DATA>25/08/2023</DATA>
+<pubDate>25/08/2023</pubDate>
 <HORA>12:18</HORA>
 <MANCHETE>
 <![CDATA[ ECONOMIA: Powell diz que ainda há longo caminho pela frente, apesar de boas leituras de inflação ]]>
@@ -167,3 +168,4 @@
 </INTEGRA>
 </NEWS>
 </CMA>
+</rss>
